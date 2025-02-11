@@ -1,5 +1,5 @@
 import Link from "next/link";
-import "./globals.css"; 
+import "./globals.css"; // CSS 파일 적용
 
 export default function Home() {
   return (
